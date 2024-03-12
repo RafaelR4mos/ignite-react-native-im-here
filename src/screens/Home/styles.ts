@@ -37,6 +37,9 @@ export const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
+  disabledButton: {
+    opacity: 0.4,
+  },
   form: {
     marginTop: 36,
     marginBottom: 42,
